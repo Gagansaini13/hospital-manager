@@ -1,0 +1,146 @@
+.upperstyle {
+  background-image: linear-gradient(lightgreen, limegreen);
+  font-family: Oswald;
+  font-size: 50px;
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 0px 2px 2px black;
+  text-align: center;
+}
+
+.logo1 {
+  width: 100px;
+  text-align: left;
+}
+
+.navigation {
+  text-align: center;
+}
+.navigation a {
+  font-size: 30px;
+  padding: 10px;
+  border: 2px solid black;
+  color: black;
+  text-decoration: none;
+  font-family: Oswald;
+  border-radius: 5px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
+  transition: all 1s;
+  background-image: linear-gradient(springgreen, limegreen);
+}
+.navigation a:hover {
+  border-radius: 20px;
+  border: 2px dotted black;
+}
+
+body {
+  background-color: #98FB98;
+}
+
+.middlestyle {
+  background-color: #00FF7F;
+  border-radius: 10px;
+  box-shadow: 0px 0px 2px 2px black;
+  padding-bottom: 30px;
+}
+
+.divstyle0 {
+  margin-top: 20px;
+}
+
+.spanstyle1 {
+  font-family: Oswald;
+  font-size: 40px;
+  text-shadow: 0px 0px 1px black;
+  display: block;
+  text-align: center;
+}
+
+.homeimg {
+  width: 80%;
+  padding: 0px 50px;
+  border-radius: 10%;
+}
+
+.pstyle1 {
+  text-align: center;
+  padding: 0px 50px;
+  font-family: Oswald;
+  font-size: 22px;
+}
+
+#pform {
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  background-image: linear-gradient(springgreen, limegreen);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
+}
+
+submit, button {
+  width: 190px;
+  height: 50px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
+}
+
+input, select, textarea {
+  height: 30px;
+  width: 250px;
+  margin: 5px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
+}
+
+textarea {
+  height: 100px;
+}
+
+marquee {
+  color: red;
+  font-size: 25px;
+}
+
+#ul1 {
+  font-size: 22px;
+  font-family: Oswald;
+  line-height: 30px;
+  font-stretch: semi-expanded;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+#ul1 ol {
+  font-weight: normal;
+}
+#ul1 ol .ul2 {
+  font-weight: lightest;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.row {
+  display: grid;
+  margin: 3.5%;
+}
+
+.col-sm img {
+  width: 300px;
+  height: 200px;
+  margin: 1%;
+}
+
+footer {
+  background-image: linear-gradient(lightgreen, limegreen);
+  padding: 10px 0px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 2px 2px black;
+  text-align: center;
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=file1.css.map */
