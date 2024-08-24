@@ -1,12 +1,5 @@
 # Project name -- hospital-manager-system
-Hospitals are the essential part of our lives, providing best medical facilities to people suffering from various ailments, 
-which may be due to change in climatic conditions, increased work-load, emotional trauma stress etc, it is necessary for the 
-hospital to keep track personals that keep the hospital running smoothly & successfully.
-But keeping track of all the activities and their records on paper is very cumbersome and error prone. It is very inefficient 
-and a time consuming process . Observing the continuous increase in population and number of people visiting the hospital.
- Recoding and maintaining all these records in highly unreliable, inefficint and error-prone. It is also not economically & 
-technically feasible to maintain records on paper.Thus keeping the working of the manual system as the basis of our project.
- We have developed an automated version of the manual system, named as "Hospital Manager"
+I have developed an automated version of the manual system, named as "Hospital Management System"
 The main aim of our project is to provide a paper-less work up to 90%. 
 It is helpfull to provide low-cost reliable automation of the exixting systems.
 The system also provides excellent security of data at every level of user-system interaction and also provides robust & reliable
