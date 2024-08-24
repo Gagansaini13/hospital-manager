@@ -21,7 +21,4 @@ other file1.css and file1.scss is used give our site a good colorfull look and s
 box-shadow, background-color, etc
 other technologies used such as  bootstrap, sass compiler in order to convert sass file to css, gitbash etc
 note - images are taken from google and is used only for study purpose.
-
-project was uploaded on github in my repository username Gagansaini13, email deepsingh.gagan92@gmail.com
-
  
