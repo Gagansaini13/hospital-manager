@@ -1,6 +1,6 @@
 # Project name -- hospital-manager-system
 I have developed an automated version of the manual system, named as "Hospital Management System"
-The main aim of our project is to provide a paper-less work up to 90%. 
+The main aim is to provide a paper-less work up to 90%. 
 It is helpfull to provide low-cost reliable automation of the exixting systems.
 The system also provides excellent security of data at every level of user-system interaction and also provides robust & reliable
 storage and backup facilities. 
